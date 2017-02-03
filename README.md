@@ -1,7 +1,7 @@
 # Quiet Facebook
-
 ![](https://raw.githubusercontent.com/maxfriedrich/quiet-facebook/master/screenshot.png)
 
+Forked from [maxfriedrich/quiet-facebook](https://github.com/maxfriedrich/quiet-facebook). Updated with new IDs which blocks the ads pane, footers, and the chat bar.
 
 ## Installation
 
